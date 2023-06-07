@@ -1,4 +1,6 @@
-let nombre = "Hugo Maximiliano ";
+let nombre;
+
+nombre = "Hugo Maximiliano ";
 
 let apellido = "Real";
 
